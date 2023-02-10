@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+u{
+    font-weight: 700;
+    font-size: 32px;
+}
+h3{
+    text-align: center;
+    background-color: lightpink;
+    color: #ff3399;
+    font-size: 32px;
+}
+div{
+    text-align: center;
+    background-color: 
+    #ffffcc;
+}
+span{
+    font-size: 26px;
+}
+hr{
+    width: 250px;
+    background-color: black;
+    border: 1px inset;
+}
+
+.first-part{
+    color: blue;
+}
+.second-part{
+    color: red;
+}
+.third-part{
+    color: green;
+}
