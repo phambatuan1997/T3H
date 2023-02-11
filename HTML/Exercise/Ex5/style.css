@@ -1,0 +1,22 @@
+
+h2{
+    color: green;
+    text-align: center;
+}
+u{
+    font-weight: bold;
+}
+div {
+    margin-bottom: 15px;
+}
+div>span{
+    color: red;
+}
+div p{
+    padding: 20px 50px;
+    background-color: #cccccc;
+}
+div p span{
+    display: block;
+    padding: 0 25px;
+}

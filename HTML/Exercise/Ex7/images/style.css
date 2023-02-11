@@ -1,0 +1,22 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+img{
+    width: 200px;
+    float: left;
+}
+ol li span{
+  background-color: red;
+}
+.square{
+    list-style: square;
+}
+b{
+    display: block;
+    padding: 15px 180px;
+}
+.text-blue{
+    color: blue;
+}

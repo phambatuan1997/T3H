@@ -1,0 +1,13 @@
+body{
+    background: #A06D21 url(./images/corona.jpg) no-repeat center;
+    background-position-y: 100px;
+    margin: 8px;
+}
+h1{
+    color: #ffcc00;
+    font-size: 24px;
+    text-align: center;
+}
+p{
+    color: white;
+}

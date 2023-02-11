@@ -1,0 +1,20 @@
+body{
+    background: #A06D21 url(./images/corona.jpg);
+    background-size:cover;
+    margin: 8px;
+}
+h1{
+    color: #008888;
+    font-size: 32px;
+    text-align: center;
+}
+p{
+color: white;
+font-size: 16px;
+
+}
+.p-fisrt{
+    background-color: #008888;
+    font-weight: 700;
+    font-size: 26px;
+}
